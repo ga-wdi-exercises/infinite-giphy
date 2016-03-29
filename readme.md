@@ -6,4 +6,4 @@ When the user scrolls near to the bottom of the page, load an additional 10 imag
 
 ## Take a look:
 
-http://ga-dc.github.io/infinite-giphy/
+http://ga-wdi-exercises.github.io/infinite-giphy/
